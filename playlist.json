@@ -1,7 +1,7 @@
 {
   "canciones": [
     {
-      "titulo": "nuevos23",
+      "titulo": "nuevo",
       "artista": "Artista 1",
       "archivo": "musica/vs23.mp3"
    
@@ -9,4 +9,5 @@
   ]
 
 }
+
 
